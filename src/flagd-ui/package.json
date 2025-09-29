@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.13",
-    "@vercel/otel": "^1.13.0",
+    "@vercel/otel": "^2.0.0",
     "ajv": "^8.17.1",
-    "next": "15.5.2",
+    "next": "15.5.4",
     "react": "^19",
     "react-dom": "^19"
   },
